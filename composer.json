@@ -15,6 +15,7 @@
         "symfony/yaml": "6.2.*"
     },
     "require-dev": {
+        "deployer/deployer": "^7.2"
     },
     "config": {
         "allow-plugins": {
